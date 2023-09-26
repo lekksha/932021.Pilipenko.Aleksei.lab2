@@ -87,3 +87,25 @@ footer {
     padding: 0; 
     text-align: left;
 }
+
+.container2-5-1 {
+    background-color: forestgreen;
+    color: #EAEAEA;
+    width: 600px;
+    margin: 10px auto;
+    padding: 0; 
+    text-align: left;
+    display: block;
+}
+
+.container2-5-2 {
+    background-color: blue;
+    color: #EAEAEA;
+    width: 600px;
+    margin: 10px auto;
+    padding: 0; 
+    text-align: left;
+    border: 50px solid blue;
+    display: block;
+}
+
