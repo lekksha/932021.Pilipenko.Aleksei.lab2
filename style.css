@@ -75,5 +75,15 @@ footer {
     display: inline-block;
     padding: 0; 
     text-align: left;
+}
 
+.container2-4 {
+    max-width: 90%;
+    background-color: blue;
+    color: #EAEAEA;
+    width: 600px;
+    margin: 10px;
+    display: inline-block;
+    padding: 0; 
+    text-align: left;
 }
