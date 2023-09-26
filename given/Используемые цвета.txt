@@ -1,7 +1,7 @@
-#C8FC98
-#EAEAEA
-#FFFF80
-#FDE95E
+#C8FC98-салатовый
+#EAEAEA-белый
+#FFFF80-банановый крем
+#FDE95E-горчичный
 red
 blue
 green
