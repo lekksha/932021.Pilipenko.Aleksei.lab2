@@ -127,3 +127,73 @@ footer {
     border: 10px solid blue;
     display: block;
 }
+
+.container1-2-7 {
+    background-color: #8A2BE2;
+    color: white;
+    padding: 0;
+    margin: 10px 0 0 10px;
+    width: 200px;
+    height: 150px;
+    text-align: left;
+}
+
+
+.container2-2-7 {
+    background-color: #8B0000;
+    color: white;
+    padding: 0;
+    margin: 0 0 0 10px;
+    width: 200px;
+    height: 150px;
+    text-align: left;
+    position: relative;
+}
+
+.container3-2-7 {
+    background-color: #CD853F;
+    color: white;
+    padding: 0;
+    margin: 0 0 0 10px;
+    width: 200px;
+    height: 150px;
+    text-align: left;
+    position: relative;
+    top: -40px;
+    left: 30px;
+}
+
+.container4-2-7 {
+    background-color: #CD5C5C;
+    color: white;
+    margin: 20px 0 0 10px;
+    width: 600px;
+    height: 350px;
+    text-align: left;
+    position: relative;
+    top: -40px;
+}
+
+.container5-2-7 {
+    background-color: #4B0082;
+    color: white;
+    padding: 0;
+    margin: 0 0 0 10px;
+    width: 280px;
+    height: 150px;
+    text-align: left;
+    position: relative;
+    float: right;
+    transform: translateY(80%);
+}
+
+.container6-2-7 {
+    background-color: #228B22;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+    width: 80px;
+    height: 120px;
+}
