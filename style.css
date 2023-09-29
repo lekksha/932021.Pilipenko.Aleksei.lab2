@@ -212,13 +212,13 @@ footer {
 
 .left-bot2-8 {
     background-color: aqua;
-    width:210px;
+    width: 210px;
     height: inherit;
 }
 
 .text2-8 {
     background-color: darkgray; 
-    width:calc(100% - 210px);
+    width: calc(100% - 210px);
 }
 
 .footer2-8 {
@@ -228,3 +228,12 @@ footer {
     position: fixed;
     bottom:0;
 }
+
+.container2-9 {
+    text-align: left;
+    background-color: blue;
+    color: white;
+    width: 500px;
+    margin: 0 auto;
+}
+
