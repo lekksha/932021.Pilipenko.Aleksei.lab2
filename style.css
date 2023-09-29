@@ -259,3 +259,26 @@ footer {
     border-color: green;
     display: flex;
 }
+
+.container2-12 {
+    background-color: aqua;
+    width: 100%;
+    border: 3px solid green;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.itemcontainer2-12 {
+    background-color: bisque;
+    padding: 5px;
+    height: 80px;
+    width:  calc(15% + 50px);
+    min-width: min-content;
+}
+
+.textcontainer2-12 {
+    background-color: darkgray;
+    margin:0;
+    max-width: 75%;
+}
