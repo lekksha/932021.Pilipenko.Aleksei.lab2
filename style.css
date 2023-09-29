@@ -237,3 +237,17 @@ footer {
     margin: 0 auto;
 }
 
+.top-container2-10 {
+    width: 200px;
+    background-color: aquamarine;
+    height: 100px;
+    margin: 20px 0 15px 50px;
+    float: left
+}
+
+.bot-container2-10 {
+    background-color: bisque;
+    clear: both;
+    margin: 0 0 0 15px;
+}
+
